@@ -1,7 +1,7 @@
 # NDRemover
 A Non Duplicate File Removal Script in Python.
 
-Simple.Difinitive. Handy for photographers.
+Simple.Definitive. Handy for photographers.
 
 Screenshot 1 : Shows Non Duplicate files.
 ![Screenshot1](https://github.com/HashtagDev/NDRemover/blob/master/shot1.png?raw=true "Before running script")
